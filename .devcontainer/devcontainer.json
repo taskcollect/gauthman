@@ -1,6 +1,6 @@
 {
 	// intrinsic name of the dev container
-	"name": "Go",
+	"name": "taskcollect/gauthman (Go)",
 
 	// the docker compose file (relative to .devcontainer)
 	"dockerComposeFile": [
