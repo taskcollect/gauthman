@@ -18,6 +18,10 @@ services:
       - ../:/home/vscode/workspace
 
     command: /bin/sh -c "while sleep 1000; do :; done"
+
+    environment:
+      CLIENT_ID: "1037085997674-f3q7g82h53gttffmfr1n0uloc9n6rfi9.apps.googleusercontent.com"
+      CLIENT_SECRET: ""
   
   # -- add any service below this line --
 
